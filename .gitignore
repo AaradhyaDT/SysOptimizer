@@ -1,0 +1,52 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build outputs
+build/
+dist/
+*.spec
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Graphify generated analysis output
+graphify-out/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Executables
+*.exe
+*.dll
+*.pyd
+
+# Package metadata
+*.egg-info/
+.eggs/
+
+# Windows installer files
+*.msi
+*.cab
+
+# Python package caches
+pip-log.txt
+pip-delete-this-directory.txt
